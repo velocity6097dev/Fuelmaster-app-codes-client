@@ -98,7 +98,7 @@ const About = () => {
               {/* stat pills — use semi-transparent white so they work on any theme color */}
               <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap', marginTop: '10px' }}>
                 {[
-                  { icon: GitBranch,  text: 'v3.9'    },
+                  { icon: GitBranch,  text: 'v4.0'    },
                   { icon: Smartphone, text: 'Android'  },
                   { icon: Globe,      text: 'India'    },
                   { icon: Zap,        text: 'Active'   },
