@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfuelmaster=self.webpackChunkfuelmaster||[]).push([[633],{3633(e,n,s){s.d(n,{DocumentScannerWeb:()=>u});var t=s(5403);class u extends t.E_{async scanDocument(e){throw this.unimplemented("Document scanning is not supported on the web.")}async getPluginVersion(){return{version:"web"}}}}}]);
+//# sourceMappingURL=633.f90f80c7.chunk.js.map

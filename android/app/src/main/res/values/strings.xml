@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FuelMaster</string>
+    <string name="title_activity_main">FuelMaster</string>
+    <string name="package_name">velocity6097.fuelmaster.dev</string>
+    <string name="custom_url_scheme">velocity6097.fuelmaster.dev</string>
+</resources>

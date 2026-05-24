@@ -1,0 +1,29 @@
+/* CustomCropper.scss */
+
+/* Theme variables */
+$base-color: white;
+$accent-color: #3b82f6;
+
+$line-color: $base-color;
+$grid-color: rgba(255,255,255,0.35);
+
+$handler-color: $accent-color;
+$big-handler-color: $accent-color;
+$small-handler-color: $accent-color;
+
+/* REQUIRED service styles */
+@import "react-advanced-cropper/dist/style.css";
+
+/* Theme after variables */
+@import "react-advanced-cropper/dist/themes/compact.scss";
+
+/* Optional fixes */
+.cropper {
+  width: 100%;
+  height: 100%;
+}
+
+.cropper .advanced-cropper-boundary {
+  width: 100%;
+  height: 100%;
+}
